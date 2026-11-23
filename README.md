@@ -50,7 +50,7 @@ Expected output is `(10000, 2)`. The four default smoke tests exercise the paire
 - [DESED_synthetic v2.2, official distribution](https://zenodo.org/records/4560893). For P8 obtain DESED_synth_soundbank.tar.gz and use the evaluation foreground directory of that soundbank. Consult the accompanying license_eval.tsv for original credits and clip-specific terms. Foreground short and foreground on/off directories are distinct ingredients.
 - [FSD50K v1.0, official distribution](https://zenodo.org/records/4060432). For P9 obtain both FSD50K.eval_audio.z01 and FSD50K.eval_audio.zip, then follow the official split-archive extraction directions. Obtain FSD50K.metadata.zip and FSD50K.doc.zip for source provenance and license terms. FSD50K.ground_truth.zip supplies the original dataset labels, which are separate from the experiment's relation labels. Use the evaluation split and cross-check original Freesound IDs against eval_clips_info_FSD50K.json and LICENSE-DATASET. Source recordings have clip-specific licenses in addition to the terms of the distributed metadata.
 
-Some upstream clips have attribution, use or redistribution restrictions. Keep source credits and the applicable terms when obtaining data. The original clip IDs, approved anchor manifest and per-scene recipes require separate permission and are held outside this candidate. See [rights and notices](RIGHTS_AND_NOTICES.md).
+Some upstream clips have attribution, use or redistribution restrictions. Keep source credits and the applicable terms when obtaining data. The original clip IDs, approved anchor manifest and per-scene recipes require separate permission and are not included in this public repository. See [rights and notices](RIGHTS_AND_NOTICES.md).
 
 ## Reproduction scope
 
@@ -78,7 +78,6 @@ Exact reconstruction of the 672 evaluation mixtures requires the approved source
 
 MIT applies only to copyright-holder-owned code, authored documentation, and the independently created synthetic fixture. Original audio, response dumps, actual source IDs and source-specific recipe manifests, model weights, and third-party materials remain outside this package. Separately obtained third-party materials retain their own licenses.
 
-Soongsil University is listed as an affiliation. 
 Soongsil University is listed as the author's affiliation.
 
 The code-and-protocol package is publicly available at
