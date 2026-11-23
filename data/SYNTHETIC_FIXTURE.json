@@ -1,0 +1,38 @@
+{
+  "kind": "SYNTHETIC_TEST_ONLY",
+  "names": {
+    "A": "Fictional chime",
+    "B": "Fictional click"
+  },
+  "anchors": {
+    "A": [
+      0.05,
+      -0.05,
+      0.05,
+      -0.05,
+      0.05,
+      -0.05,
+      0.05,
+      -0.05
+    ],
+    "B": [
+      0.04,
+      -0.03,
+      0.02,
+      -0.01,
+      0.04,
+      -0.03,
+      0.02,
+      -0.01
+    ]
+  },
+  "sample_rate": 40,
+  "seconds": 2,
+  "recipe": {
+    "early": 0.25,
+    "late": 1.25,
+    "short": 0.1,
+    "long": 0.2,
+    "contrast_db": 6
+  }
+}

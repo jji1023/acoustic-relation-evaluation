@@ -1,0 +1,2 @@
+# Optional dependency for the archived PCG64 bootstrap draw order.
+numpy==2.2.6
