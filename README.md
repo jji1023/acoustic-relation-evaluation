@@ -78,4 +78,14 @@ Exact reconstruction of the 672 evaluation mixtures requires the approved source
 
 MIT applies only to copyright-holder-owned code, authored documentation, and the independently created synthetic fixture. Original audio, response dumps, actual source IDs and source-specific recipe manifests, model weights, and third-party materials remain outside this package. Separately obtained third-party materials retain their own licenses.
 
-Soongsil University is listed as an affiliation. This package is prepared for public distribution. A public repository URL has yet to be assigned. [Rights and notices](RIGHTS_AND_NOTICES.md) · [Third-party notices](THIRD_PARTY_NOTICES.md)
+Soongsil University is listed as an affiliation. 
+Soongsil University is listed as the author's affiliation.
+
+The code-and-protocol package is publicly available at
+https://github.com/jji1023/acoustic-relation-evaluation.
+
+The audited P85 code snapshot is available at
+[commit 3db5ebb](https://github.com/jji1023/acoustic-relation-evaluation/tree/3db5ebb53e88cd23f10ca0c0a6756cee71e15fbc).
+
+[Rights and notices](RIGHTS_AND_NOTICES.md) · [Third-party notices](THIRD_PARTY_NOTICES.md)
+
