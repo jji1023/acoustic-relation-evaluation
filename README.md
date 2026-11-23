@@ -72,13 +72,12 @@ Exact reconstruction of the 672 evaluation mixtures requires the approved source
 
 ## Attribution and license
 
-- Author: Jeongin Ju
-- Affiliation: Soongsil University
+- Software author and copyright holder: Jeongin Ju
+- Manuscript authors: Jeongin Ju and Sungbin Im
+- Affiliation: School of Electronic Engineering, Soongsil University
 - License: [MIT](LICENSE)
 
 MIT applies only to copyright-holder-owned code, authored documentation, and the independently created synthetic fixture. Original audio, response dumps, actual source IDs and source-specific recipe manifests, model weights, and third-party materials remain outside this package. Separately obtained third-party materials retain their own licenses.
-
-Soongsil University is listed as the author's affiliation.
 
 The code-and-protocol package is publicly available at
 https://github.com/jji1023/acoustic-relation-evaluation.
